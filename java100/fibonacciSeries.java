@@ -1,3 +1,6 @@
+
+//Q: Write the code to find the Fibonacci series upto the nth term.
+
 package java100;
 
 public class fibonacciSeries {
@@ -12,7 +15,6 @@ public class fibonacciSeries {
 
 			int temp = a + b;
 			System.out.print(temp + ", ");
-//			temp = a;
 			a = b;
 			b = temp;
 

@@ -1,3 +1,6 @@
+
+//Q: Write code of  Perfect number
+
 package java100;
 
 public class perfectNumber {

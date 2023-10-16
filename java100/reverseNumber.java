@@ -1,3 +1,7 @@
+
+//Q: Write a code to reverse a number
+
+
 package java100;
 
 public class reverseNumber {

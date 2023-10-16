@@ -1,3 +1,6 @@
+
+//Q: Write a code to reverse a string
+
 package java100;
 
 public class reverseString {

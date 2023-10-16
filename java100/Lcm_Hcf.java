@@ -1,6 +1,9 @@
+
+//Q: Write code of Greatest Common Divisor GCD(HCF) and LCM
+
 package java100;
 
-public class LCM {
+public class Lcm_Hcf {
 
 	public static void main(String[] args) {
 
